@@ -1,4 +1,6 @@
-## X-URL-Uploader (Bot)
+# DEploy To Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhoho25/URL-Uploader-ytdlp-compatible)
+
 ---
 
 Telegram RoBot to Upload Links.
