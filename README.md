@@ -1,5 +1,5 @@
 # DEploy To Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhoho25/URL-Uploader-ytdlp-compatible)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhoho25/Uploader-yt-compatible)
 
 ---
 
